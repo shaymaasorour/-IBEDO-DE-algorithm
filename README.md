@@ -1,4 +1,3 @@
-# -IBEDO-DE-algorithm
 # IBEDO-DE Algorithm for ChatGPT Perception Analysis in Programming Education
 
 This repository contains the implementation, experimental notebook, and supporting files for the study:
